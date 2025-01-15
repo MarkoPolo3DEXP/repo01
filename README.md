@@ -1,3 +1,2 @@
-# Testing Connected Software Engineering integration in 3DEXP
-# Deployment level R427
-# SCM deployed R426
+# Testing Connected Software Engineering integration with GITHUB in 3DEXPERIENCE Platform
+# Internal Testing purpose only
